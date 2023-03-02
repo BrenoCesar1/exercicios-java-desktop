@@ -1,2 +1,2 @@
 # exercicios-java-desktop
-13 exercicios para treinar comandos do Java Swing.
+13 exercicios treinando comandos do Java Swing.
